@@ -7,6 +7,7 @@ public class Greet {
 		System.out.println("Welcome everyone in my code");
 		System.out.println("Now see the changes");
 		System.out.println("GIT USES");
-		System.out.println("NOW ITS WORKING");}
+		System.out.println("NOW ITS WORKING");
+			System.out.println("NOW ITS WORKING");}
 
 }
